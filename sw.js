@@ -17,7 +17,7 @@
  * cambios en tu sitio, para
  * depués actualizar este archivo.
  */
-const CACHE = "irvingpwa-1.01";
+const CACHE = "irvingpwa-1.10";
 
 /** Archivos requeridos para que
  * la aplicación funcione fuera de
